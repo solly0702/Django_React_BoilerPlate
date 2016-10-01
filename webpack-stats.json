@@ -1,0 +1,1 @@
+{"status":"done","chunks":{"vendor":[{"name":"vendor.js","publicPath":"http://localhost:8080/client/src/js/vendor.js","path":"/vendor.js"}],"bundle":[{"name":"bundle.min.js","publicPath":"http://localhost:8080/client/src/js/bundle.min.js","path":"/bundle.min.js"}]},"publicPath":"http://localhost:8080/client/src/js/"}
