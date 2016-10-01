@@ -6,7 +6,7 @@ Install dependencies,
 use "npm start" for react-hot-module
 
 ```
-	> git clone https://github.com/solly0702/react_redux_boilerplate.git
+	> git clone https://github.com/solly0702/Django_React_BoilerPlate.git
 ```
 	## React Setup ##
 ```
